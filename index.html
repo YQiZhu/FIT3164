@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+
+</head>
+<body>
+  
+<div id="barchart1"></div>
+  
+<br><br>
+  
+<div id="barchart2"></div>
+
+<script type="text/javascript">
+  
+  var specVis1 = "js/top5dangerous.json";
+  var specVis2 = "js/top5safest.json";
+  
+  vegaEmbed('#barchart1', specVis1).then(function(result) {
+  }).catch(console.error);
+  
+  vegaEmbed('#barchart2', specVis2).then(function(result) {
+  }).catch(console.error);
+  
+</script>
+
+</body>
+</html
