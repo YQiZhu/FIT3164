@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Top 5 Dangerous Cities in Melbourne (2021)",
+    "fontSize": 18
+  },
+  "width": 250,
+  "height": 200,
+  "data": {
+    "url": "https://raw.githubusercontent.com/angeltjo/group12/main/data/Suburb%20Crime%20Rates%202021.json"
+  },
+  "transform": [
+    {
+      "window": [{"op": "rank", "as": "rank"}],
+      "sort": [{"field": "Total", "order": "descending"}]
+    },
+    {"filter": "datum.rank <= 5"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Total", "type": "quantitative"},
+    "y": {
+      "field": "Suburb",
+      "type": "nominal",
+      "sort": {"field": "Total", "op": "average", "order": "descending"}
+    },
+    "tooltip": [
+      {"field": "Suburb", "type": "nominal", "title": "Suburb"},
+      {"field": "Total", "type": "quantitative", "title": "Number of Crimes"}
+    ]
+  }
+}
