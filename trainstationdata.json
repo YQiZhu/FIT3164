@@ -1,0 +1,2000 @@
+[
+  {
+    "Code": "ACF",
+    "Date_opened": "07-Mar-25",
+    "Distance_from_Southern_Cross": "22.23 km (13.81 mi)",
+    "Latitude": -37.8666,
+    "Line": "Werribee",
+    "Longitude": 144.7609,
+    "Name": "Aircraft"
+  },
+  {
+    "Code": "ALM",
+    "Date_opened": "28-Jun-48",
+    "Distance_from_Southern_Cross": "16.12 km (10.02 mi)",
+    "Latitude": -37.8683,
+    "Line": "Alamein",
+    "Longitude": 145.0797,
+    "Name": "Alamein"
+  },
+  {
+    "Code": "ALB",
+    "Date_opened": "24-Nov-19",
+    "Distance_from_Southern_Cross": "13.65 km (8.48 mi)",
+    "Latitude": -37.7772,
+    "Line": "Sunbury",
+    "Longitude": 144.8244,
+    "Name": "Albion"
+  },
+  {
+    "Code": "ALP",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "10.46 km (6.50 mi)",
+    "Latitude": -37.7784,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0313,
+    "Name": "Alphington"
+  },
+  {
+    "Code": "ALT",
+    "Date_opened": "01-Dec-17",
+    "Distance_from_Southern_Cross": "17.15 km (10.66 mi)",
+    "Latitude": -37.8672,
+    "Line": "Werribee",
+    "Longitude": 144.8301,
+    "Name": "Altona"
+  },
+  {
+    "Code": "ASY",
+    "Date_opened": "15-Dec-26",
+    "Distance_from_Southern_Cross": "8.04 km (5.00 mi)",
+    "Latitude": -37.761074,
+    "Line": "Upfield",
+    "Longitude": 144.960609,
+    "Name": "Anstey"
+  },
+  {
+    "Code": "ARM",
+    "Date_opened": "7 May 1889",
+    "Distance_from_Southern_Cross": "8.67 km (5.39 mi)",
+    "Latitude": -37.8563,
+    "Line": "Frankston, Pakenham and Cranbourne",
+    "Longitude": 145.0193,
+    "Name": "Armadale"
+  },
+  {
+    "Code": "ASV",
+    "Date_opened": "1 January 1889",
+    "Distance_from_Southern_Cross": "5.81 km (3.61 mi)",
+    "Latitude": -37.775278,
+    "Line": "Craigieburn",
+    "Longitude": 144.921944,
+    "Name": "Ascot Vale"
+  },
+  {
+    "Code": "ASH",
+    "Date_opened": "30 May 1890",
+    "Distance_from_Southern_Cross": "15.39 km (9.56 mi)",
+    "Latitude": -37.8619,
+    "Line": "Alamein",
+    "Longitude": 145.0813,
+    "Name": "Ashburton"
+  },
+  {
+    "Code": "ASP",
+    "Date_opened": "1 April 1891",
+    "Distance_from_Southern_Cross": "30.31 km (18.83 mi)",
+    "Latitude": -38.0273,
+    "Line": "Frankston",
+    "Longitude": 145.102,
+    "Name": "Aspendale"
+  },
+  {
+    "Code": "AUB",
+    "Date_opened": "3 April 1882",
+    "Distance_from_Southern_Cross": "8.96 km (5.57 mi)",
+    "Latitude": -37.8225,
+    "Line": "Alamein, Belgrave and Lilydale",
+    "Longitude": 145.046,
+    "Name": "Auburn"
+  },
+  {
+    "Code": "BCV",
+    "Date_opened": "19 December 1859",
+    "Distance_from_Southern_Cross": "9.08 km (5.64 mi)",
+    "Latitude": -37.8695,
+    "Line": "Sandringham",
+    "Longitude": 144.9934,
+    "Name": "Balaclava"
+  },
+  {
+    "Code": "BAT",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "11.23 km (6.98 mi)",
+    "Latitude": -37.7335,
+    "Line": "Upfield",
+    "Longitude": 144.9628,
+    "Name": "Batman"
+  },
+  {
+    "Code": "BXR",
+    "Date_opened": "1 October 1888",
+    "Distance_from_Southern_Cross": "51.97 km (32.29 mi)",
+    "Latitude": -38.1941,
+    "Line": "Stony Point",
+    "Longitude": 145.1605,
+    "Name": "Baxter"
+  },
+  {
+    "Code": "BAY",
+    "Date_opened": "4 December 1889",
+    "Distance_from_Southern_Cross": "30.84 km (19.16 mi)",
+    "Latitude": -37.8417,
+    "Line": "Belgrave",
+    "Longitude": 145.2681,
+    "Name": "Bayswater"
+  },
+  {
+    "Code": "BFD",
+    "Date_opened": "1 December 1879",
+    "Distance_from_Southern_Cross": "46.99 km (29.20 mi)",
+    "Latitude": -38.0509,
+    "Line": "Pakenham",
+    "Longitude": 145.366,
+    "Name": "Beaconsfield"
+  },
+  {
+    "Code": "BEG",
+    "Date_opened": "18-Dec-01",
+    "Distance_from_Southern_Cross": "42.69 km (26.53 mi)",
+    "Latitude": -37.90908,
+    "Line": "Belgrave",
+    "Longitude": 145.35526,
+    "Name": "Belgrave"
+  },
+  {
+    "Code": "BEL",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "11.70 km (7.27 mi)",
+    "Latitude": -37.7456,
+    "Line": "Mernda",
+    "Longitude": 145.0003,
+    "Name": "Bell"
+  },
+  {
+    "Code": "BEN",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "16.52 km (10.27 mi)",
+    "Latitude": -37.9175,
+    "Line": "Frankston",
+    "Longitude": 145.0369,
+    "Name": "Bentleigh"
+  },
+  {
+    "Code": "BEW",
+    "Date_opened": "8 October 1877",
+    "Distance_from_Southern_Cross": "44.58 km (27.70 mi)",
+    "Latitude": -38.0397,
+    "Line": "Pakenham",
+    "Longitude": 145.345,
+    "Name": "Berwick"
+  },
+  {
+    "Code": "BIT",
+    "Date_opened": "17 September 1889",
+    "Distance_from_Southern_Cross": "68.67 km (42.67 mi)",
+    "Latitude": -38.3371,
+    "Line": "Stony Point",
+    "Longitude": 145.178,
+    "Name": "Bittern"
+  },
+  {
+    "Code": "BBN",
+    "Date_opened": "25 December 1882",
+    "Distance_from_Southern_Cross": "18.67 km (11.60 mi)",
+    "Latitude": -37.8201,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.15,
+    "Name": "Blackburn"
+  },
+  {
+    "Code": "BON",
+    "Date_opened": "15-Feb-26",
+    "Distance_from_Southern_Cross": "34.61 km (21.51 mi)",
+    "Latitude": -38.0627,
+    "Line": "Frankston",
+    "Longitude": 145.1197,
+    "Name": "Bonbeach"
+  },
+  {
+    "Code": "BOR",
+    "Date_opened": "19-Jun-20",
+    "Distance_from_Southern_Cross": "33.38 km (20.74 mi)",
+    "Latitude": -37.86044,
+    "Line": "Belgrave",
+    "Longitude": 145.28434,
+    "Name": "Boronia"
+  },
+  {
+    "Code": "BOX",
+    "Date_opened": "1 December 1882",
+    "Distance_from_Southern_Cross": "16.16 km (10.04 mi)",
+    "Latitude": -37.8192,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.1214,
+    "Name": "Box Hill"
+  },
+  {
+    "Code": "BBH",
+    "Date_opened": "21 December 1861",
+    "Distance_from_Southern_Cross": "15.97 km (9.92 mi)",
+    "Latitude": -37.926389,
+    "Line": "Sandringham",
+    "Longitude": 144.989167,
+    "Name": "Brighton Beach"
+  },
+  {
+    "Code": "BMS",
+    "Date_opened": "1 February 1873",
+    "Distance_from_Southern_Cross": "16.85 km (10.47 mi)",
+    "Latitude": -37.6829,
+    "Line": "Craigieburn",
+    "Longitude": 144.9197,
+    "Name": "Broadmeadows"
+  },
+  {
+    "Code": "BWK",
+    "Date_opened": "9 September 1884",
+    "Distance_from_Southern_Cross": "7.31 km (4.54 mi)",
+    "Latitude": -37.7677,
+    "Line": "Upfield",
+    "Longitude": 144.9597,
+    "Name": "Brunswick"
+  },
+  {
+    "Code": "BLY",
+    "Date_opened": "1 May 1880",
+    "Distance_from_Southern_Cross": "5.33 km (3.31 mi)",
+    "Latitude": -37.82743,
+    "Line": "Glen Waverley, Belgrave, Lilydale and Alamein",
+    "Longitude": 145.00657,
+    "Name": "Burnley"
+  },
+  {
+    "Code": "BWD",
+    "Date_opened": "30 May 1890",
+    "Distance_from_Southern_Cross": "14.17 km (8.80 mi)",
+    "Latitude": -37.8516,
+    "Line": "Alamein",
+    "Longitude": 145.0805,
+    "Name": "Burwood"
+  },
+  {
+    "Code": "CAM",
+    "Date_opened": "01-Jan-19",
+    "Distance_from_Southern_Cross": "10.21 km (6.34 mi)",
+    "Latitude": -37.8265,
+    "Line": "Alamein, Belgrave and Lilydale",
+    "Longitude": 145.0587,
+    "Name": "Camberwell"
+  },
+  {
+    "Code": "CBY",
+    "Date_opened": "1 December 1882",
+    "Distance_from_Southern_Cross": "12.19 km (7.57 mi)",
+    "Latitude": -37.8245,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.0815,
+    "Name": "Canterbury"
+  },
+  {
+    "Code": "CDA",
+    "Date_opened": "22-Apr-12",
+    "Distance_from_Southern_Cross": "53.68 km (33.36 mi)",
+    "Latitude": -38.071111,
+    "Line": "Pakenham",
+    "Longitude": 145.4375,
+    "Name": "Cardinia Road"
+  },
+  {
+    "Code": "CNE",
+    "Date_opened": "14 May 1879",
+    "Distance_from_Southern_Cross": "13.53 km (8.41 mi)",
+    "Latitude": -37.8863,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.0585,
+    "Name": "Carnegie"
+  },
+  {
+    "Code": "CAR",
+    "Date_opened": "1 August 1882",
+    "Distance_from_Southern_Cross": "36.10 km (22.43 mi)",
+    "Latitude": -38.0751,
+    "Line": "Frankston",
+    "Longitude": 145.1223,
+    "Name": "Carrum"
+  },
+  {
+    "Code": "CFD",
+    "Date_opened": "7 May 1879",
+    "Distance_from_Southern_Cross": "11.79 km (7.33 mi)",
+    "Latitude": -37.8773,
+    "Line": "Frankston, Pakenham and Cranbourne",
+    "Longitude": 145.0423,
+    "Name": "Caulfield"
+  },
+  {
+    "Code": "CHM",
+    "Date_opened": "01-Apr-27",
+    "Distance_from_Southern_Cross": "12.95 km (8.05 mi)",
+    "Latitude": -37.8242,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.0887,
+    "Name": "Chatham"
+  },
+  {
+    "Code": "CSA",
+    "Date_opened": "04-Feb-07",
+    "Distance_from_Southern_Cross": "33.37 km (20.74 mi)",
+    "Latitude": -38.052,
+    "Line": "Frankston",
+    "Longitude": 145.1159,
+    "Name": "Chelsea"
+  },
+  {
+    "Code": "CTM",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "22.43 km (13.94 mi)",
+    "Latitude": -37.967,
+    "Line": "Frankston",
+    "Longitude": 145.0547,
+    "Name": "Cheltenham"
+  },
+  {
+    "Code": "CLA",
+    "Date_opened": "6 January 1880",
+    "Distance_from_Southern_Cross": "20.51 km (12.74 mi)",
+    "Latitude": -37.9245,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1201,
+    "Name": "Clayton"
+  },
+  {
+    "Code": "CHL",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "6.60 km (4.10 mi)",
+    "Latitude": -37.7887,
+    "Line": "Mernda and Hurstbridge",
+    "Longitude": 144.9954,
+    "Name": "Clifton Hill"
+  },
+  {
+    "Code": "COB",
+    "Date_opened": "9 September 1884",
+    "Distance_from_Southern_Cross": "10.12 km (6.29 mi)",
+    "Latitude": -37.7423,
+    "Line": "Upfield",
+    "Longitude": 144.9634,
+    "Name": "Coburg"
+  },
+  {
+    "Code": "CWD",
+    "Date_opened": "21-Oct-01",
+    "Distance_from_Southern_Cross": "4.83 km (3.00 mi)",
+    "Latitude": -37.8044,
+    "Line": "Mernda and Hurstbridge",
+    "Longitude": 144.9936,
+    "Name": "Collingwood"
+  },
+  {
+    "Code": "CLO",
+    "Date_opened": "06-Jun-10",
+    "Distance_from_Southern_Cross": "19.31 km (12.00 mi)",
+    "Latitude": -37.66,
+    "Line": "Craigieburn",
+    "Longitude": 144.926,
+    "Name": "Coolaroo"
+  },
+  {
+    "Code": "CGB",
+    "Date_opened": "22 July 1872",
+    "Distance_from_Southern_Cross": "26.70 km (16.59 mi)",
+    "Latitude": -37.602842,
+    "Line": "Craigieburn",
+    "Longitude": 144.942927,
+    "Name": "Craigieburn"
+  },
+  {
+    "Code": "CBE",
+    "Date_opened": "1 October 1888",
+    "Distance_from_Southern_Cross": "45.12 km (28.04 mi)",
+    "Latitude": -38.1,
+    "Line": "Cranbourne",
+    "Longitude": 145.2811,
+    "Name": "Cranbourne"
+  },
+  {
+    "Code": "CPT",
+    "Date_opened": "17 December 1889",
+    "Distance_from_Southern_Cross": "72.83 km (45.25 mi)",
+    "Latitude": -38.366,
+    "Line": "Stony Point",
+    "Longitude": 145.2041,
+    "Name": "Crib Point"
+  },
+  {
+    "Code": "CXT",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "9.61 km (5.97 mi)",
+    "Latitude": -37.7642,
+    "Line": "Mernda",
+    "Longitude": 144.9968,
+    "Name": "Croxton"
+  },
+  {
+    "Code": "CDN",
+    "Date_opened": "1 December 1882",
+    "Distance_from_Southern_Cross": "31.03 km (19.28 mi)",
+    "Latitude": -37.7954,
+    "Line": "Lilydale",
+    "Longitude": 145.2805,
+    "Name": "Croydon"
+  },
+  {
+    "Code": "DNG",
+    "Date_opened": "8 October 1877",
+    "Distance_from_Southern_Cross": "31.19 km (19.38 mi)",
+    "Latitude": -37.99,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.2098,
+    "Name": "Dandenong"
+  },
+  {
+    "Code": "DBN",
+    "Date_opened": "08-May-22",
+    "Distance_from_Southern_Cross": "11.22 km (6.97 mi)",
+    "Latitude": -37.775,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0385,
+    "Name": "Darebin"
+  },
+  {
+    "Code": "DLG",
+    "Date_opened": "24 March 1890",
+    "Distance_from_Southern_Cross": "12.68 km (7.88 mi)",
+    "Latitude": -37.86894,
+    "Line": "Glen Waverley",
+    "Longitude": 145.06288,
+    "Name": "Darling"
+  },
+  {
+    "Code": "DEN",
+    "Date_opened": "04-Feb-24",
+    "Distance_from_Southern_Cross": "8.40 km (5.22 mi)",
+    "Latitude": -37.7793,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0083,
+    "Name": "Dennis"
+  },
+  {
+    "Code": "DCK",
+    "Date_opened": "25-Jun-12",
+    "Distance_from_Southern_Cross": "32.63 km (20.28 mi)",
+    "Latitude": -37.6733,
+    "Line": "Hurstbridge",
+    "Longitude": 145.1585,
+    "Name": "Diamond Creek"
+  },
+  {
+    "Code": "DIT",
+    "Date_opened": "2 October 1859",
+    "Distance_from_Southern_Cross": "32.69 km (20.31 mi)",
+    "Latitude": -37.627,
+    "Line": "Sunbury",
+    "Longitude": 144.72,
+    "Name": "Diggers Rest"
+  },
+  {
+    "Code": "EAG",
+    "Date_opened": "01-May-26",
+    "Distance_from_Southern_Cross": "13.09 km (8.13 mi)",
+    "Latitude": -37.7638,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0538,
+    "Name": "Eaglemont"
+  },
+  {
+    "Code": "ECM",
+    "Date_opened": "14-May-00",
+    "Distance_from_Southern_Cross": "11.08 km (6.88 mi)",
+    "Latitude": -37.8257,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.0683,
+    "Name": "East Camberwell"
+  },
+  {
+    "Code": "EMV",
+    "Date_opened": "03-Feb-29",
+    "Distance_from_Southern_Cross": "13.75 km (8.54 mi)",
+    "Latitude": -37.87694,
+    "Line": "Glen Waverley",
+    "Longitude": 145.06933,
+    "Name": "East Malvern"
+  },
+  {
+    "Code": "ERM",
+    "Date_opened": "24 September 1860",
+    "Distance_from_Southern_Cross": "4.37 km (2.72 mi)",
+    "Latitude": -37.82636,
+    "Line": "Alamein, Belgrave, Glen Waverley and Lilydale",
+    "Longitude": 144.99636,
+    "Name": "East Richmond"
+  },
+  {
+    "Code": "EDI",
+    "Date_opened": "20-Sep-19",
+    "Distance_from_Southern_Cross": "31.67 km (19.68 mi)",
+    "Latitude": -38.038,
+    "Line": "Frankston",
+    "Longitude": 145.1085,
+    "Name": "Edithvale"
+  },
+  {
+    "Code": "ELS",
+    "Date_opened": "19 December 1859",
+    "Distance_from_Southern_Cross": "10.95 km (6.80 mi)",
+    "Latitude": -37.8848,
+    "Line": "Sandringham",
+    "Longitude": 145.0009,
+    "Name": "Elsternwick"
+  },
+  {
+    "Code": "ELT",
+    "Date_opened": "05-Jun-02",
+    "Distance_from_Southern_Cross": "27.39 km (17.02 mi)",
+    "Latitude": -37.7138,
+    "Line": "Hurstbridge",
+    "Longitude": 145.1477,
+    "Name": "Eltham"
+  },
+  {
+    "Code": "EPP",
+    "Date_opened": "23 December 1889",
+    "Distance_from_Southern_Cross": "22.46 km (13.96 mi)",
+    "Latitude": -37.6521,
+    "Line": "Mernda",
+    "Longitude": 145.0308,
+    "Name": "Epping"
+  },
+  {
+    "Code": "ESD",
+    "Date_opened": "1 January 1878",
+    "Distance_from_Southern_Cross": "8.01 km (4.98 mi)",
+    "Latitude": -37.756,
+    "Line": "Craigieburn",
+    "Longitude": 144.9161,
+    "Name": "Essendon"
+  },
+  {
+    "Code": "FFD",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "9.15 km (5.69 mi)",
+    "Latitude": -37.7792,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0169,
+    "Name": "Fairfield"
+  },
+  {
+    "Code": "FAK",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "13.23 km (8.22 mi)",
+    "Latitude": -37.7147,
+    "Line": "Upfield",
+    "Longitude": 144.9606,
+    "Name": "Fawkner"
+  },
+  {
+    "Code": "FTG",
+    "Date_opened": "4 December 1889",
+    "Distance_from_Southern_Cross": "35.89 km (22.30 mi)",
+    "Latitude": -37.88156,
+    "Line": "Belgrave",
+    "Longitude": 145.29516,
+    "Name": "Ferntree Gully"
+  },
+  {
+    "Code": "FGS",
+    "Date_opened": "27-May-85",
+    "Distance_from_Southern_Cross": "1.29 km (0.80 mi)",
+    "Latitude": -37.811944,
+    "Line": "All except Williamstown, Frankston, Werribee, Stony Point and Flemington Racecourse",
+    "Longitude": 144.956111,
+    "Name": "Flagstaff"
+  },
+  {
+    "Code": "FBD",
+    "Date_opened": "10 April 1885",
+    "Distance_from_Southern_Cross": "4.06 km (2.52 mi)",
+    "Latitude": -37.7882,
+    "Line": "Upfield",
+    "Longitude": 144.9394,
+    "Name": "Flemington Bridge"
+  },
+  {
+    "Code": "RCE",
+    "Date_opened": "28 February 1861",
+    "Distance_from_Southern_Cross": "6.60 km (4.10 mi)",
+    "Latitude": -37.7879,
+    "Line": "Flemington Racecourse",
+    "Longitude": 144.9068,
+    "Name": "Flemington Racecourse"
+  },
+  {
+    "Code": "FSS",
+    "Date_opened": "12 September 1854",
+    "Distance_from_Southern_Cross": "1.23 km (0.76 mi)",
+    "Latitude": -37.818078,
+    "Line": "All except Stony Point",
+    "Longitude": 144.96681,
+    "Name": "Flinders Street"
+  },
+  {
+    "Code": "FSY",
+    "Date_opened": "16-Sep-00",
+    "Distance_from_Southern_Cross": "5.62 km (3.49 mi)",
+    "Latitude": -37.8016,
+    "Line": "Sunbury, Werribee and Williamstown",
+    "Longitude": 144.9024,
+    "Name": "Footscray"
+  },
+  {
+    "Code": "FKN",
+    "Date_opened": "1 August 1882",
+    "Distance_from_Southern_Cross": "43.92 km (27.29 mi)",
+    "Latitude": -38.143,
+    "Line": "Frankston and Stony Point",
+    "Longitude": 145.126,
+    "Name": "Frankston"
+  },
+  {
+    "Code": "GVE",
+    "Date_opened": "10-Dec-06",
+    "Distance_from_Southern_Cross": "12.35 km (7.67 mi)",
+    "Latitude": -37.8967,
+    "Line": "Sandringham",
+    "Longitude": 145.0041,
+    "Name": "Gardenvale"
+  },
+  {
+    "Code": "GAR",
+    "Date_opened": "24 March 1890",
+    "Distance_from_Southern_Cross": "10.61 km (6.59 mi)",
+    "Latitude": -37.85329,
+    "Line": "Glen Waverley",
+    "Longitude": 145.05163,
+    "Name": "Gardiner"
+  },
+  {
+    "Code": "GIN",
+    "Date_opened": "31-Oct-82",
+    "Distance_from_Southern_Cross": "16.19 km (10.06 mi)",
+    "Latitude": -37.758,
+    "Line": "Sunbury",
+    "Longitude": 144.81,
+    "Name": "Ginifer"
+  },
+  {
+    "Code": "GIR",
+    "Date_opened": "24 March 1890",
+    "Distance_from_Southern_Cross": "11.52 km (7.16 mi)",
+    "Latitude": -37.85924,
+    "Line": "Glen Waverley",
+    "Longitude": 145.05816,
+    "Name": "Glen Iris"
+  },
+  {
+    "Code": "GWY",
+    "Date_opened": "05-May-30",
+    "Distance_from_Southern_Cross": "22.23 km (13.81 mi)",
+    "Latitude": -37.87954,
+    "Line": "Glen Waverley",
+    "Longitude": 145.16259,
+    "Name": "Glen Waverley"
+  },
+  {
+    "Code": "GBV",
+    "Date_opened": "11-Sep-22",
+    "Distance_from_Southern_Cross": "9.13 km (5.67 mi)",
+    "Latitude": -37.747197,
+    "Line": "Craigieburn",
+    "Longitude": 144.92092,
+    "Name": "Glenbervie"
+  },
+  {
+    "Code": "GFE",
+    "Date_opened": "3 April 1882",
+    "Distance_from_Southern_Cross": "8.12 km (5.05 mi)",
+    "Latitude": -37.8216,
+    "Line": "Alamein, Belgrave and Lilydale",
+    "Longitude": 145.0367,
+    "Name": "Glenferrie"
+  },
+  {
+    "Code": "GHY",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "13.46 km (8.36 mi)",
+    "Latitude": -37.8899,
+    "Line": "Frankston",
+    "Longitude": 145.0421,
+    "Name": "Glenhuntly"
+  },
+  {
+    "Code": "GRY",
+    "Date_opened": "24 January 1887",
+    "Distance_from_Southern_Cross": "14.40 km (8.95 mi)",
+    "Latitude": -37.7046,
+    "Line": "Craigieburn",
+    "Longitude": 144.9173,
+    "Name": "Glenroy"
+  },
+  {
+    "Code": "GOW",
+    "Date_opened": "16-Oct-28",
+    "Distance_from_Southern_Cross": "14.73 km (9.15 mi)",
+    "Latitude": -37.7007,
+    "Line": "Upfield",
+    "Longitude": 144.9588,
+    "Name": "Gowrie"
+  },
+  {
+    "Code": "GRN",
+    "Date_opened": "05-Jun-02",
+    "Distance_from_Southern_Cross": "22.93 km (14.25 mi)",
+    "Latitude": -37.704,
+    "Line": "Hurstbridge",
+    "Longitude": 145.1081,
+    "Name": "Greensborough"
+  },
+  {
+    "Code": "HLM",
+    "Date_opened": "1 December 1880",
+    "Distance_from_Southern_Cross": "37.45 km (23.27 mi)",
+    "Latitude": -38.0179,
+    "Line": "Pakenham",
+    "Longitude": 145.2702,
+    "Name": "Hallam"
+  },
+  {
+    "Code": "HAM",
+    "Date_opened": "2 September 1882",
+    "Distance_from_Southern_Cross": "17.70 km (11.00 mi)",
+    "Latitude": -37.9382,
+    "Line": "Sandringham",
+    "Longitude": 145.0014,
+    "Name": "Hampton"
+  },
+  {
+    "Code": "HWL",
+    "Date_opened": "07-May-06",
+    "Distance_from_Southern_Cross": "13.30 km (8.26 mi)",
+    "Latitude": -37.8441,
+    "Line": "Alamein",
+    "Longitude": 145.0756,
+    "Name": "Hartwell"
+  },
+  {
+    "Code": "HST",
+    "Date_opened": "10 September 1889",
+    "Distance_from_Southern_Cross": "64.99 km (40.38 mi)",
+    "Latitude": -38.3056,
+    "Line": "Stony Point",
+    "Longitude": 145.186,
+    "Name": "Hastings"
+  },
+  {
+    "Code": "HKN",
+    "Date_opened": "7 May 1889",
+    "Distance_from_Southern_Cross": "6.63 km (4.12 mi)",
+    "Latitude": -37.8448,
+    "Line": "Frankston, Pakenham and Cranbourne",
+    "Longitude": 145.0023,
+    "Name": "Hawksburn"
+  },
+  {
+    "Code": "HWS",
+    "Date_opened": "26-Aug-18",
+    "Distance_from_Southern_Cross": "30.73 km (19.09 mi)",
+    "Latitude": -37.6218,
+    "Line": "Mernda",
+    "Longitude": 145.0975,
+    "Name": "Hawkstowe"
+  },
+  {
+    "Code": "HAW",
+    "Date_opened": "13 April 1861",
+    "Distance_from_Southern_Cross": "6.89 km (4.28 mi)",
+    "Latitude": -37.8219,
+    "Line": "Alamein, Belgrave and Lilydale",
+    "Longitude": 145.0229,
+    "Name": "Hawthorn"
+  },
+  {
+    "Code": "HTD",
+    "Date_opened": "07-Sep-58",
+    "Distance_from_Southern_Cross": "24.21 km (15.04 mi)",
+    "Latitude": -37.8189,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.2128,
+    "Name": "Heatherdale"
+  },
+  {
+    "Code": "HMT",
+    "Date_opened": "01-May-26",
+    "Distance_from_Southern_Cross": "28.12 km (17.47 mi)",
+    "Latitude": -37.82833,
+    "Line": "Belgrave",
+    "Longitude": 145.24451,
+    "Name": "Heathmont"
+  },
+  {
+    "Code": "HDB",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "14.04 km (8.72 mi)",
+    "Latitude": -37.7571,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0607,
+    "Name": "Heidelberg"
+  },
+  {
+    "Code": "HEY",
+    "Date_opened": "24 March 1890",
+    "Distance_from_Southern_Cross": "7.12 km (4.42 mi)",
+    "Latitude": -37.83472,
+    "Line": "Glen Waverley",
+    "Longitude": 145.02266,
+    "Name": "Heyington"
+  },
+  {
+    "Code": "HIG",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "20.06 km (12.46 mi)",
+    "Latitude": -37.9485,
+    "Line": "Frankston",
+    "Longitude": 145.0418,
+    "Name": "Highett"
+  },
+  {
+    "Code": "HOL",
+    "Date_opened": "05-May-30",
+    "Distance_from_Southern_Cross": "15.65 km (9.72 mi)",
+    "Latitude": -37.87419,
+    "Line": "Glen Waverley",
+    "Longitude": 145.09141,
+    "Name": "Holmesglen"
+  },
+  {
+    "Code": "HCG",
+    "Date_opened": "16-Nov-70",
+    "Distance_from_Southern_Cross": "27.67 km (17.19 mi)",
+    "Latitude": -37.8833,
+    "Line": "Werribee",
+    "Longitude": 144.7011,
+    "Name": "Hoppers Crossing"
+  },
+  {
+    "Code": "HUG",
+    "Date_opened": "28-Feb-28",
+    "Distance_from_Southern_Cross": "15.48 km (9.62 mi)",
+    "Latitude": -37.8943,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 144.7011,
+    "Name": "Hughesdale"
+  },
+  {
+    "Code": "HUN",
+    "Date_opened": "25-Jun-27",
+    "Distance_from_Southern_Cross": "18.28 km (11.36 mi)",
+    "Latitude": 37.911,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1024,
+    "Name": "Huntingdale"
+  },
+  {
+    "Code": "HBE",
+    "Date_opened": "25-Jun",
+    "Distance_from_Southern_Cross": "38.02 km (23.62 mi)",
+    "Latitude": -37.6393,
+    "Line": "Hurstbridge",
+    "Longitude": 145.1921,
+    "Name": "Hurstbridge"
+  },
+  {
+    "Code": "IVA",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "12.14 km (7.54 mi)",
+    "Latitude": -37.7689,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0455,
+    "Name": "Ivanhoe"
+  },
+  {
+    "Code": "JAC",
+    "Date_opened": "15-Feb-59",
+    "Distance_from_Southern_Cross": "15.43 km (9.59 mi)",
+    "Latitude": -37.6951,
+    "Line": "Craigieburn",
+    "Longitude": 144.9158,
+    "Name": "Jacana"
+  },
+  {
+    "Code": "JWL",
+    "Date_opened": "9 September 1884",
+    "Distance_from_Southern_Cross": "6.50 km (4.04 mi)",
+    "Latitude": -37.775,
+    "Line": "Upfield",
+    "Longitude": 144.9587,
+    "Name": "Jewell"
+  },
+  {
+    "Code": "JLI",
+    "Date_opened": "21-Oct-01",
+    "Distance_from_Southern_Cross": "2.91 km (1.81 mi)",
+    "Latitude": -37.81638,
+    "Line": "Mernda and Hurstbridge",
+    "Longitude": 144.9829,
+    "Name": "Jolimont"
+  },
+  {
+    "Code": "JOR",
+    "Date_opened": "05-May-30",
+    "Distance_from_Southern_Cross": "17.61 km (10.94 mi)",
+    "Latitude": -37.87358,
+    "Line": "Glen Waverley",
+    "Longitude": 145.11199,
+    "Name": "Jordanville"
+  },
+  {
+    "Code": "KAN",
+    "Date_opened": "25-Aug-75",
+    "Distance_from_Southern_Cross": "41.44 km (25.75 mi)",
+    "Latitude": -38.1218,
+    "Line": "Frankston",
+    "Longitude": 145.1353,
+    "Name": "Kananook"
+  },
+  {
+    "Code": "KPL",
+    "Date_opened": "27-Jan-02",
+    "Distance_from_Southern_Cross": "19.62 km (12.19 mi)",
+    "Latitude": -37.7294,
+    "Line": "Sunbury",
+    "Longitude": 144.7938,
+    "Name": "Keilor Plains"
+  },
+  {
+    "Code": "KEN",
+    "Date_opened": "1 November 1860",
+    "Distance_from_Southern_Cross": "3.58 km (2.22 mi)",
+    "Latitude": -37.7939,
+    "Line": "Craigieburn",
+    "Longitude": 144.9307,
+    "Name": "Kensington"
+  },
+  {
+    "Code": "KPK",
+    "Date_opened": "16-Dec-29",
+    "Distance_from_Southern_Cross": "17.54 km (10.90 mi)",
+    "Latitude": -37.6946,
+    "Line": "Mernda",
+    "Longitude": 145.0118,
+    "Name": "Keon Park"
+  },
+  {
+    "Code": "KYG",
+    "Date_opened": "24 March 1890",
+    "Distance_from_Southern_Cross": "8.28 km (5.14 mi)",
+    "Latitude": 37.8399,
+    "Line": "Glen Waverley",
+    "Longitude": 145.03337,
+    "Name": "Kooyong"
+  },
+  {
+    "Code": "LAB",
+    "Date_opened": "13-Jul-58",
+    "Distance_from_Southern_Cross": "17.82 km (11.07 mi)",
+    "Latitude": -37.8208,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.1407,
+    "Name": "Laburnum"
+  },
+  {
+    "Code": "LAL",
+    "Date_opened": "01-Oct-49",
+    "Distance_from_Southern_Cross": "20.72 km (12.87 mi)",
+    "Latitude": -37.6659,
+    "Line": "Mernda",
+    "Longitude": 145.0173,
+    "Name": "Lalor"
+  },
+  {
+    "Code": "LAV",
+    "Date_opened": "1 July 1886",
+    "Distance_from_Southern_Cross": "21.01 km (13.06 mi)",
+    "Latitude": -37.8638,
+    "Line": "Werribee",
+    "Longitude": 144.7722,
+    "Name": "Laverton"
+  },
+  {
+    "Code": "LWA",
+    "Date_opened": "01-Mar-59",
+    "Distance_from_Southern_Cross": "45.77 km (28.44 mi)",
+    "Latitude": -38.152,
+    "Line": "Stony Point",
+    "Longitude": 145.1394,
+    "Name": "Leawarra"
+  },
+  {
+    "Code": "LIL",
+    "Date_opened": "1 December 1882",
+    "Distance_from_Southern_Cross": "39.07 km (24.28 mi)",
+    "Latitude": -37.75557,
+    "Line": "Lilydale",
+    "Longitude": 145.34756,
+    "Name": "Lilydale"
+  },
+  {
+    "Code": "LBK",
+    "Date_opened": "22-Apr-12",
+    "Distance_from_Southern_Cross": "39.50 km (24.54 mi)",
+    "Latitude": -38.057778,
+    "Line": "Cranbourne",
+    "Longitude": 145.249444,
+    "Name": "Lynbrook"
+  },
+  {
+    "Code": "MAC",
+    "Date_opened": "1 December 1887",
+    "Distance_from_Southern_Cross": "3.25 km (2.02 mi)",
+    "Latitude": -37.7946,
+    "Line": "Upfield",
+    "Longitude": 144.9362,
+    "Name": "Macaulay"
+  },
+  {
+    "Code": "MCD",
+    "Date_opened": "01-Mar-11",
+    "Distance_from_Southern_Cross": "17.71 km (11.00 mi)",
+    "Latitude": -37.726,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0693,
+    "Name": "Macleod"
+  },
+  {
+    "Code": "MAL",
+    "Date_opened": "7 May 1889",
+    "Distance_from_Southern_Cross": "10.11 km (6.28 mi)",
+    "Latitude": -37.8664,
+    "Line": "Frankston, Pakenham and Cranbourne",
+    "Longitude": 145.0693,
+    "Name": "Malvern"
+  },
+  {
+    "Code": "MCK",
+    "Date_opened": "1 September 1884",
+    "Distance_from_Southern_Cross": "15.72 km (9.77 mi)",
+    "Latitude": -37.9104,
+    "Line": "Frankston",
+    "Longitude": 145.0382,
+    "Name": "McKinnon"
+  },
+  {
+    "Code": "MCE",
+    "Date_opened": "24-Jan-81",
+    "Distance_from_Southern_Cross": "1.90 km (1.18 mi)",
+    "Latitude": -37.81,
+    "Line": "All except Williamstown, Stony Point and Flemington Racecourse",
+    "Longitude": 144.962778,
+    "Name": "Melbourne Central"
+  },
+  {
+    "Code": "MEN",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "24.36 km (15.14 mi)",
+    "Latitude": -37.982,
+    "Line": "Frankston",
+    "Longitude": 145.0652,
+    "Name": "Mentone"
+  },
+  {
+    "Code": "MPK",
+    "Date_opened": "24-Mar-95",
+    "Distance_from_Southern_Cross": "42.35 km (26.32 mi)",
+    "Latitude": -38.08,
+    "Line": "Cranbourne",
+    "Longitude": 145.2641,
+    "Name": "Merinda Park"
+  },
+  {
+    "Code": "MYN",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "12.49 km (7.76 mi)",
+    "Latitude": -37.7209,
+    "Line": "Upfield",
+    "Longitude": 144.9613,
+    "Name": "Merlynston"
+  },
+  {
+    "Code": "MDD",
+    "Date_opened": "26-Aug-18",
+    "Distance_from_Southern_Cross": "33.61 km (20.88 mi)",
+    "Latitude": -37.599444,
+    "Line": "Mernda",
+    "Longitude": 145.101389,
+    "Name": "Mernda"
+  },
+  {
+    "Code": "MER",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "8.04 km (5.00 mi)",
+    "Latitude": -37.7778,
+    "Line": "Mernda",
+    "Longitude": 144.9931,
+    "Name": "Merri"
+  },
+  {
+    "Code": "MBN",
+    "Date_opened": "21 December 1861",
+    "Distance_from_Southern_Cross": "14.52 km (9.02 mi)",
+    "Latitude": -37.915,
+    "Line": "Sandringham",
+    "Longitude": 144.9963,
+    "Name": "Middle Brighton"
+  },
+  {
+    "Code": "MFY",
+    "Date_opened": "10-Dec-06",
+    "Distance_from_Southern_Cross": "6.61 km (4.11 mi)",
+    "Latitude": -37.8025,
+    "Line": "Sunbury",
+    "Longitude": 144.8915,
+    "Name": "Middle Footscray"
+  },
+  {
+    "Code": "MMR",
+    "Date_opened": "26-Aug-18",
+    "Distance_from_Southern_Cross": "28.34 km (17.61 mi)",
+    "Latitude": -37.6443,
+    "Line": "Mernda",
+    "Longitude": 145.0919,
+    "Name": "Middle Gorge"
+  },
+  {
+    "Code": "MCH",
+    "Date_opened": "25 December 1882",
+    "Distance_from_Southern_Cross": "22.41 km (13.92 mi)",
+    "Latitude": -37.818,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.192,
+    "Name": "Mitcham"
+  },
+  {
+    "Code": "MAB",
+    "Date_opened": "11 August 1890",
+    "Distance_from_Southern_Cross": "14.63 km (9.09 mi)",
+    "Latitude": -37.81955,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.10556,
+    "Name": "Mont Albert"
+  },
+  {
+    "Code": "MMY",
+    "Date_opened": "05-Sep-23",
+    "Distance_from_Southern_Cross": "24.75 km (15.38 mi)",
+    "Latitude": -37.7153,
+    "Line": "Hurstbridge",
+    "Longitude": 145.1214,
+    "Name": "Montmorency"
+  },
+  {
+    "Code": "MPD",
+    "Date_opened": "1 November 1860",
+    "Distance_from_Southern_Cross": "6.89 km (4.28 mi)",
+    "Latitude": -37.7659,
+    "Line": "Craigieburn",
+    "Longitude": 144.9194,
+    "Name": "Moonee Ponds"
+  },
+  {
+    "Code": "MRN",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "18.45 km (11.46 mi)",
+    "Latitude": -37.9343,
+    "Line": "Frankston",
+    "Longitude": 145.0367,
+    "Name": "Moorabbin"
+  },
+  {
+    "Code": "MLK",
+    "Date_opened": "10 October 1887",
+    "Distance_from_Southern_Cross": "34.38 km (21.36 mi)",
+    "Latitude": -37.7847,
+    "Line": "Lilydale",
+    "Longitude": 145.3125,
+    "Name": "Mooroolbark"
+  },
+  {
+    "Code": "MOR",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "27.69 km (17.21 mi)",
+    "Latitude": -38.0066,
+    "Line": "Frankston",
+    "Longitude": 145.0875,
+    "Name": "Mordialloc"
+  },
+  {
+    "Code": "MLD",
+    "Date_opened": "9 September 1884",
+    "Distance_from_Southern_Cross": "8.78 km (5.46 mi)",
+    "Latitude": -37.7545,
+    "Line": "Upfield",
+    "Longitude": 144.9619,
+    "Name": "Moreland"
+  },
+  {
+    "Code": "MRO",
+    "Date_opened": "07-Nov-60",
+    "Distance_from_Southern_Cross": "70.96 km (44.09 mi)",
+    "Latitude": -38.3538,
+    "Line": "Stony Point",
+    "Longitude": 145.1893,
+    "Name": "Morradoo"
+  },
+  {
+    "Code": "MWY",
+    "Date_opened": "05-May-30",
+    "Distance_from_Southern_Cross": "19.00 km (11.81 mi)",
+    "Latitude": -37.87528,
+    "Line": "Glen Waverley",
+    "Longitude": 145.12836,
+    "Name": "Mount Waverley"
+  },
+  {
+    "Code": "MRB",
+    "Date_opened": "14 May 1879",
+    "Distance_from_Southern_Cross": "14.42 km (8.96 mi)",
+    "Latitude": -37.8903,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.0673,
+    "Name": "Murrumbeena"
+  },
+  {
+    "Code": "NWA",
+    "Date_opened": "10 March 1882",
+    "Distance_from_Southern_Cross": "40.80 km (25.35 mi)",
+    "Latitude": -38.0277,
+    "Line": "Pakenham",
+    "Longitude": 145.3039,
+    "Name": "Narre Warren"
+  },
+  {
+    "Code": "NKT",
+    "Date_opened": "1 January 1886",
+    "Distance_from_Southern_Cross": "4.30 km (2.67 mi)",
+    "Latitude": -37.7873,
+    "Line": "Craigieburn",
+    "Longitude": 144.929,
+    "Name": "Newmarket"
+  },
+  {
+    "Code": "NPT",
+    "Date_opened": "1 March 1859",
+    "Distance_from_Southern_Cross": "10.56 km (6.56 mi)",
+    "Latitude": -37.8424,
+    "Line": "Werribee and Williamstown",
+    "Longitude": 144.8833,
+    "Name": "Newport"
+  },
+  {
+    "Code": "NPK",
+    "Date_opened": "03-Feb-13",
+    "Distance_from_Southern_Cross": "27.38 km (17.01 mi)",
+    "Latitude": -37.9676,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1773,
+    "Name": "Noble Park"
+  },
+  {
+    "Code": "NBN",
+    "Date_opened": "19 December 1859",
+    "Distance_from_Southern_Cross": "13.24 km (8.23 mi)",
+    "Latitude": -37.9046,
+    "Line": "Sandringham",
+    "Longitude": 145.0026,
+    "Name": "North Brighton"
+  },
+  {
+    "Code": "NME",
+    "Date_opened": "9 June 1886",
+    "Distance_from_Southern_Cross": "1.72 km (1.07 mi)",
+    "Latitude": -37.8063,
+    "Line": "Craigieburn, Upfield, Werribee, Williamstown, Sunbury, Flemington Racecourse",
+    "Longitude": 144.9411,
+    "Name": "North Melbourne"
+  },
+  {
+    "Code": "NRM",
+    "Date_opened": "21-Oct-01",
+    "Distance_from_Southern_Cross": "4.16 km (2.58 mi)",
+    "Latitude": -37.8104,
+    "Line": "Mernda and Hurstbridge",
+    "Longitude": 144.9925,
+    "Name": "North Richmond"
+  },
+  {
+    "Code": "NWN",
+    "Date_opened": "1 February 1859",
+    "Distance_from_Southern_Cross": "12.27 km (7.62 mi)",
+    "Latitude": -37.8573,
+    "Line": "Williamstown",
+    "Longitude": 144.889,
+    "Name": "North Williamstown"
+  },
+  {
+    "Code": "NCE",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "8.97 km (5.57 mi)",
+    "Latitude": -37.7697,
+    "Line": "Mernda",
+    "Longitude": 144.9948,
+    "Name": "Northcote"
+  },
+  {
+    "Code": "NWG",
+    "Date_opened": "4 June 1888",
+    "Distance_from_Southern_Cross": "21.12 km (13.12 mi)",
+    "Latitude": -37.8204,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.1771,
+    "Name": "Nunawading"
+  },
+  {
+    "Code": "OKP",
+    "Date_opened": "13-Aug-56",
+    "Distance_from_Southern_Cross": "12.88 km (8.00 mi)",
+    "Latitude": -37.7179,
+    "Line": "Craigieburn",
+    "Longitude": 144.9216,
+    "Name": "Oak Park"
+  },
+  {
+    "Code": "OAK",
+    "Date_opened": "8 October 1877",
+    "Distance_from_Southern_Cross": "16.59 km (10.31 mi)",
+    "Latitude": -37.9005,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.0883,
+    "Name": "Oakleigh"
+  },
+  {
+    "Code": "OFC",
+    "Date_opened": "4 August 1881",
+    "Distance_from_Southern_Cross": "51.45 km (31.97 mi)",
+    "Latitude": -38.0662,
+    "Line": "Pakenham",
+    "Longitude": 145.411,
+    "Name": "Officer"
+  },
+  {
+    "Code": "OMD",
+    "Date_opened": "19 December 1881",
+    "Distance_from_Southern_Cross": "14.90 km (9.26 mi)",
+    "Latitude": -37.9032,
+    "Line": "Frankston",
+    "Longitude": 145.0395,
+    "Name": "Ormond"
+  },
+  {
+    "Code": "PKM",
+    "Date_opened": "8 October 1877",
+    "Distance_from_Southern_Cross": "58.19 km (36.16 mi)",
+    "Latitude": -38.0803,
+    "Line": "Pakenham",
+    "Longitude": 145.4859,
+    "Name": "Pakenham"
+  },
+  {
+    "Code": "PKD",
+    "Date_opened": "01-Sep-19",
+    "Distance_from_Southern_Cross": "25.93 km (16.11 mi)",
+    "Latitude": -37.9931,
+    "Line": "Frankston",
+    "Longitude": 145.0762,
+    "Name": "Parkdale"
+  },
+  {
+    "Code": "PAR",
+    "Date_opened": "22-Jan-83",
+    "Distance_from_Southern_Cross": "3.03 km (1.88 mi)",
+    "Latitude": -37.811389,
+    "Line": "All except Williamstown, Stony Point and Flemington Racecourse",
+    "Longitude": 144.973056,
+    "Name": "Parliament"
+  },
+  {
+    "Code": "PVL",
+    "Date_opened": "10 November 1885",
+    "Distance_from_Southern_Cross": "11.27 km (7.00 mi)",
+    "Latitude": -37.7302,
+    "Line": "Craigieburn",
+    "Longitude": 144.9284,
+    "Name": "Pascoe Vale"
+  },
+  {
+    "Code": "PAT",
+    "Date_opened": "28-May-61",
+    "Distance_from_Southern_Cross": "17.39 km (10.81 mi)",
+    "Latitude": -37.9248,
+    "Line": "Frankston",
+    "Longitude": 145.0354,
+    "Name": "Patterson"
+  },
+  {
+    "Code": "PRA",
+    "Date_opened": "22 December 1860",
+    "Distance_from_Southern_Cross": "6.72 km (4.18 mi)",
+    "Latitude": -37.8495,
+    "Line": "Sandringham",
+    "Longitude": 144.9899,
+    "Name": "Prahran"
+  },
+  {
+    "Code": "PRE",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "12.47 km (7.75 mi)",
+    "Latitude": -37.7387,
+    "Line": "Mernda",
+    "Longitude": 145.0006,
+    "Name": "Preston"
+  },
+  {
+    "Code": "REG",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "13.61 km (8.46 mi)",
+    "Latitude": -37.7284,
+    "Line": "Mernda",
+    "Longitude": 145.0029,
+    "Name": "Regent"
+  },
+  {
+    "Code": "RES",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "14.94 km (9.28 mi)",
+    "Latitude": -37.7168,
+    "Line": "Mernda",
+    "Longitude": 145.0071,
+    "Name": "Reservoir"
+  },
+  {
+    "Code": "RMD",
+    "Date_opened": "8 February 1859",
+    "Distance_from_Southern_Cross": "3.80 km (2.36 mi)",
+    "Latitude": -37.823611,
+    "Line": "Sandringham, Frankston, Pakenham, Cranbourne, Alamein, Glen Waverley, Belgrave and Lilydale",
+    "Longitude": 144.988889,
+    "Name": "Richmond"
+  },
+  {
+    "Code": "RWD",
+    "Date_opened": "1 December 1882",
+    "Distance_from_Southern_Cross": "25.76 km (16.01 mi)",
+    "Latitude": -37.81595,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.22887,
+    "Name": "Ringwood"
+  },
+  {
+    "Code": "RWE",
+    "Date_opened": "18-May-25",
+    "Distance_from_Southern_Cross": "27.76 km (17.25 mi)",
+    "Latitude": -37.81195,
+    "Line": "Lilydale",
+    "Longitude": 145.24969,
+    "Name": "Ringwood East"
+  },
+  {
+    "Code": "RIP",
+    "Date_opened": "01-May-12",
+    "Distance_from_Southern_Cross": "9.83 km (6.11 mi)",
+    "Latitude": -37.8759,
+    "Line": "Sandringham",
+    "Longitude": 144.9951,
+    "Name": "Ripponlea"
+  },
+  {
+    "Code": "RIV",
+    "Date_opened": "30 May 1890",
+    "Distance_from_Southern_Cross": "11.73 km (7.29 mi)",
+    "Latitude": -37.8315,
+    "Line": "Alamein",
+    "Longitude": 145.0697,
+    "Name": "Riversdale"
+  },
+  {
+    "Code": "ROS",
+    "Date_opened": "01-Oct-27",
+    "Distance_from_Southern_Cross": "15.80 km (9.82 mi)",
+    "Latitude": -37.7429,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0662,
+    "Name": "Rosanna"
+  },
+  {
+    "Code": "RXP",
+    "Date_opened": "30-Sep-07",
+    "Distance_from_Southern_Cross": "22.00 km (13.67 mi)",
+    "Latitude": -37.6382,
+    "Line": "Craigieburn",
+    "Longitude": 144.9353,
+    "Name": "Roxburgh Park"
+  },
+  {
+    "Code": "RPK",
+    "Date_opened": "9 September 1884",
+    "Distance_from_Southern_Cross": "5.46 km (3.39 mi)",
+    "Latitude": -37.7813,
+    "Line": "Upfield",
+    "Longitude": 144.9517,
+    "Name": "Royal Park"
+  },
+  {
+    "Code": "RUS",
+    "Date_opened": "01-Jan-27",
+    "Distance_from_Southern_Cross": "7.54 km (4.69 mi)",
+    "Latitude": -37.7832,
+    "Line": "Mernda",
+    "Longitude": 144.992,
+    "Name": "Rushall"
+  },
+  {
+    "Code": "RUT",
+    "Date_opened": "05-Aug-63",
+    "Distance_from_Southern_Cross": "15.95 km (9.91 mi)",
+    "Latitude": -37.7079,
+    "Line": "Mernda",
+    "Longitude": 145.0094,
+    "Name": "Ruthven"
+  },
+  {
+    "Code": "SNP",
+    "Date_opened": "7 May 1889",
+    "Distance_from_Southern_Cross": "25.68 km (15.96 mi)",
+    "Latitude": -37.9568,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1632,
+    "Name": "Sandown Park"
+  },
+  {
+    "Code": "SHM",
+    "Date_opened": "2 September 1887",
+    "Distance_from_Southern_Cross": "19.16 km (11.91 mi)",
+    "Latitude": -37.9503,
+    "Line": "Sandringham",
+    "Longitude": 145.0044,
+    "Name": "Sandringham"
+  },
+  {
+    "Code": "SEA",
+    "Date_opened": "01-Dec-13",
+    "Distance_from_Southern_Cross": "39.35 km (24.45 mi)",
+    "Latitude": -38.104,
+    "Line": "Frankston",
+    "Longitude": 145.1281,
+    "Name": "Seaford"
+  },
+  {
+    "Code": "SHE",
+    "Date_opened": "26-Jan-20",
+    "Distance_from_Southern_Cross": "16.13 km (10.02 mi)",
+    "Latitude": -37.8679,
+    "Line": "Werribee",
+    "Longitude": 144.8411,
+    "Name": "Seaholme"
+  },
+  {
+    "Code": "SEN",
+    "Date_opened": "10-Dec-06",
+    "Distance_from_Southern_Cross": "6.62 km (4.11 mi)",
+    "Latitude": -37.809,
+    "Line": "Werribee and Williamstown",
+    "Longitude": 144.8956,
+    "Name": "Seddon"
+  },
+  {
+    "Code": "SGS",
+    "Date_opened": "7 November 1883",
+    "Distance_from_Southern_Cross": "5.70 km (3.54 mi)",
+    "Latitude": -37.7834,
+    "Line": "Flemington Racecourse",
+    "Longitude": 144.9149,
+    "Name": "Showgrounds"
+  },
+  {
+    "Code": "SVE",
+    "Date_opened": "10 September 1889",
+    "Distance_from_Southern_Cross": "55.82 km (34.68 mi)",
+    "Latitude": -38.2253,
+    "Line": "Stony Point",
+    "Longitude": 145.1762,
+    "Name": "Somerville"
+  },
+  {
+    "Code": "SKN",
+    "Date_opened": "11 March 1891",
+    "Distance_from_Southern_Cross": "3.49 km (2.17 mi)",
+    "Latitude": -37.7997,
+    "Line": "Sunbury, Werribee and Williamstown",
+    "Longitude": 144.9258,
+    "Name": "South Kensington"
+  },
+  {
+    "Code": "SMG",
+    "Date_opened": "22-Apr-12",
+    "Distance_from_Southern_Cross": "25.99 km (16.15 mi)",
+    "Latitude": -37.649167,
+    "Line": "Mernda",
+    "Longitude": 145.0675,
+    "Name": "South Morang"
+  },
+  {
+    "Code": "SYR",
+    "Date_opened": "22 December 1860",
+    "Distance_from_Southern_Cross": "5.41 km (3.36 mi)",
+    "Latitude": -37.8389,
+    "Line": "Sandringham, Frankston, Pakenham and Cranbourne",
+    "Longitude": 144.9922,
+    "Name": "South Yarra"
+  },
+  {
+    "Code": "SSS",
+    "Date_opened": "17 January 1859",
+    "Distance_from_Southern_Cross": "0.00 km (0 mi)",
+    "Latitude": -37.8184,
+    "Line": "All except Stony Point",
+    "Longitude": 144.9524,
+    "Name": "Southern Cross"
+  },
+  {
+    "Code": "SOU",
+    "Date_opened": "26-Nov-17",
+    "Distance_from_Southern_Cross": "21.03 km (13.07 mi)",
+    "Latitude": -37.9589,
+    "Line": "Frankston",
+    "Longitude": 145.0492,
+    "Name": "Southland"
+  },
+  {
+    "Code": "SPT",
+    "Date_opened": "1 December 1878",
+    "Distance_from_Southern_Cross": "9.22 km (5.73 mi)",
+    "Latitude": -37.8306,
+    "Line": "Werribee and Williamstown",
+    "Longitude": 144.8858,
+    "Name": "Spotswood"
+  },
+  {
+    "Code": "SPG",
+    "Date_opened": "1 September 1880",
+    "Distance_from_Southern_Cross": "24.50 km (15.22 mi)",
+    "Latitude": -37.9494,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1531,
+    "Name": "Springvale"
+  },
+  {
+    "Code": "SAB",
+    "Date_opened": "22-Nov-59",
+    "Distance_from_Southern_Cross": "17.81 km (11.07 mi)",
+    "Latitude": -37.7445,
+    "Line": "Sunbury",
+    "Longitude": 144.7997,
+    "Name": "St Albans"
+  },
+  {
+    "Code": "STY",
+    "Date_opened": "17 December 1889",
+    "Distance_from_Southern_Cross": "74.59 km (46.35 mi)",
+    "Latitude": -38.3741,
+    "Line": "Stony Point",
+    "Longitude": 145.2216,
+    "Name": "Stony Point"
+  },
+  {
+    "Code": "SME",
+    "Date_opened": "28 October 1890",
+    "Distance_from_Southern_Cross": "9.79 km (6.08 mi)",
+    "Latitude": -37.7436,
+    "Line": "Craigieburn",
+    "Longitude": 144.9274,
+    "Name": "Strathmore"
+  },
+  {
+    "Code": "SUY",
+    "Date_opened": "10 February 1859",
+    "Distance_from_Southern_Cross": "38.28 km (23.79 mi)",
+    "Latitude": -37.5792,
+    "Line": "Sunbury",
+    "Longitude": 144.7279,
+    "Name": "Sunbury"
+  },
+  {
+    "Code": "SUN",
+    "Date_opened": "7 September 1885",
+    "Distance_from_Southern_Cross": "12.25 km (7.61 mi)",
+    "Latitude": -37.7881,
+    "Line": "Sunbury",
+    "Longitude": 144.8325,
+    "Name": "Sunshine"
+  },
+  {
+    "Code": "SHL",
+    "Date_opened": "13 August 1883",
+    "Distance_from_Southern_Cross": "13.84 km (8.60 mi)",
+    "Latitude": -37.8239,
+    "Line": "Belgrave and Lilydale",
+    "Longitude": 145.099,
+    "Name": "Surrey Hills"
+  },
+  {
+    "Code": "SYN",
+    "Date_opened": "05-May-30",
+    "Distance_from_Southern_Cross": "20.89 km (12.98 mi)",
+    "Latitude": -37.87625,
+    "Line": "Glen Waverley",
+    "Longitude": 145.14936,
+    "Name": "Syndal"
+  },
+  {
+    "Code": "TCM",
+    "Date_opened": "01-Feb-24",
+    "Distance_from_Southern_Cross": "41.34 km (25.69 mi)",
+    "Latitude": -37.90808,
+    "Line": "Belgrave",
+    "Longitude": 145.34301,
+    "Name": "Tecoma"
+  },
+  {
+    "Code": "TSN",
+    "Date_opened": "23 December 1889",
+    "Distance_from_Southern_Cross": "9.09 km (11.86 mi)",
+    "Latitude": -37.6803,
+    "Line": "Mernda",
+    "Longitude": 145.0142,
+    "Name": "Thomastown"
+  },
+  {
+    "Code": "TBY",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "10.62 km (6.60 mi)",
+    "Latitude": -37.7552,
+    "Line": "Mernda",
+    "Longitude": 144.9983,
+    "Name": "Thornbury"
+  },
+  {
+    "Code": "TOR",
+    "Date_opened": "7 May 1889",
+    "Distance_from_Southern_Cross": "7.91 km (4.92 mi)",
+    "Latitude": -37.851,
+    "Line": "Frankston, Pakenham and Cranbourne",
+    "Longitude": 145.014,
+    "Name": "Toorak"
+  },
+  {
+    "Code": "TGA",
+    "Date_opened": "24 March 1890",
+    "Distance_from_Southern_Cross": "9.59 km (5.96 mi)",
+    "Latitude": -37.84939,
+    "Line": "Glen Waverley",
+    "Longitude": 145.0417,
+    "Name": "Tooronga"
+  },
+  {
+    "Code": "TOT",
+    "Date_opened": "2 March 1891",
+    "Distance_from_Southern_Cross": "9.10 km (5.65 mi)",
+    "Latitude": -37.7993,
+    "Line": "Sunbury",
+    "Longitude": 144.8632,
+    "Name": "Tottenham"
+  },
+  {
+    "Code": "TAB",
+    "Date_opened": "10 September 1889",
+    "Distance_from_Southern_Cross": "59.84 km (37.18 mi)",
+    "Latitude": -38.2597,
+    "Line": "Stony Point",
+    "Longitude": 145.1862,
+    "Name": "Tyabb"
+  },
+  {
+    "Code": "UFD",
+    "Date_opened": "8 October 1889",
+    "Distance_from_Southern_Cross": "18.86 km (11.72 mi)",
+    "Latitude": -37.666,
+    "Line": "Upfield",
+    "Longitude": 144.9468,
+    "Name": "Upfield"
+  },
+  {
+    "Code": "UFG",
+    "Date_opened": "4 December 1889",
+    "Distance_from_Southern_Cross": "37.66 km (23.40 mi)",
+    "Latitude": -37.89265,
+    "Line": "Belgrave",
+    "Longitude": 145.30751,
+    "Name": "Upper Ferntree Gully"
+  },
+  {
+    "Code": "UPW",
+    "Date_opened": "03-Jun-01",
+    "Distance_from_Southern_Cross": "40.18 km (24.97 mi)",
+    "Latitude": -37.90364,
+    "Line": "Belgrave",
+    "Longitude": 145.33125,
+    "Name": "Upwey"
+  },
+  {
+    "Code": "VPK",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "5.42 km (3.37 mi)",
+    "Latitude": -37.7991,
+    "Line": "Mernda and Hurstbridge",
+    "Longitude": 144.9945,
+    "Name": "Victoria Park"
+  },
+  {
+    "Code": "WGS",
+    "Date_opened": "1 March 1859",
+    "Distance_from_Southern_Cross": "23.28 km (14.47 mi)",
+    "Latitude": -37.7008,
+    "Line": "Sunbury",
+    "Longitude": 144.7738,
+    "Name": "Watergardens"
+  },
+  {
+    "Code": "WAT",
+    "Date_opened": "23-Jun-24",
+    "Distance_from_Southern_Cross": "19.92 km (12.38 mi)",
+    "Latitude": -37.711,
+    "Line": "Hurstbridge",
+    "Longitude": 145.0838,
+    "Name": "Watsonia"
+  },
+  {
+    "Code": "WTT",
+    "Date_opened": "25-Jun-12",
+    "Distance_from_Southern_Cross": "35.06 km (21.79 mi)",
+    "Latitude": -37.664,
+    "Line": "Hurstbridge",
+    "Longitude": 145.1816,
+    "Name": "Wattle Glen"
+  },
+  {
+    "Code": "WER",
+    "Date_opened": "25 June 1857",
+    "Distance_from_Southern_Cross": "31.70 km (19.70 mi)",
+    "Latitude": -37.8994,
+    "Line": "Werribee",
+    "Longitude": 144.6611,
+    "Name": "Werribee"
+  },
+  {
+    "Code": "WFY",
+    "Date_opened": "1 October 1888",
+    "Distance_from_Southern_Cross": "7.16 km (4.45 mi)",
+    "Latitude": -37.8018,
+    "Line": "Sunbury",
+    "Longitude": 144.8853,
+    "Name": "West Footscray"
+  },
+  {
+    "Code": "WRM",
+    "Date_opened": "21-Oct-01",
+    "Distance_from_Southern_Cross": "3.66 km (2.27 mi)",
+    "Latitude": -37.815,
+    "Line": "Mernda and Hurstbridge",
+    "Longitude": 144.9914,
+    "Name": "West Richmond"
+  },
+  {
+    "Code": "WTL",
+    "Date_opened": "06-Feb-51",
+    "Distance_from_Southern_Cross": "22.64 km (14.07 mi)",
+    "Latitude": -37.9382,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1383,
+    "Name": "Westall"
+  },
+  {
+    "Code": "WTG",
+    "Date_opened": "8 May 1888",
+    "Distance_from_Southern_Cross": "7.55 km (4.69 mi)",
+    "Latitude": -37.7807,
+    "Line": "Hurstbridge",
+    "Longitude": 144.9993,
+    "Name": "Westgarth"
+  },
+  {
+    "Code": "WTO",
+    "Date_opened": "21-Jan-85",
+    "Distance_from_Southern_Cross": "18.53 km (11.51 mi)",
+    "Latitude": -37.8651,
+    "Line": "Werribee",
+    "Longitude": 144.8135,
+    "Name": "Westona"
+  },
+  {
+    "Code": "WLD",
+    "Date_opened": "28-Apr-13",
+    "Distance_from_Southern_Cross": "23.45 km (14.57 mi)",
+    "Latitude": -37.870278,
+    "Line": "Werribee",
+    "Longitude": 144.746944,
+    "Name": "Williams Landing"
+  },
+  {
+    "Code": "WIL",
+    "Date_opened": "17 January 1859",
+    "Distance_from_Southern_Cross": "14.20 km (8.82 mi)",
+    "Latitude": -37.8677,
+    "Line": "Williamstown",
+    "Longitude": 144.9054,
+    "Name": "Williamstown"
+  },
+  {
+    "Code": "WBH",
+    "Date_opened": "7 August 1889",
+    "Distance_from_Southern_Cross": "13.18 km (8.19 mi)",
+    "Latitude": -37.8641,
+    "Line": "Williamstown",
+    "Longitude": 144.8944,
+    "Name": "Williamstown Beach"
+  },
+  {
+    "Code": "WSN",
+    "Date_opened": "08-Jun-08",
+    "Distance_from_Southern_Cross": "12.15 km (7.55 mi)",
+    "Latitude": -37.8357,
+    "Line": "Alamein",
+    "Longitude": 145.0703,
+    "Name": "Willison"
+  },
+  {
+    "Code": "WIN",
+    "Date_opened": "19 December 1859",
+    "Distance_from_Southern_Cross": "7.49 km (4.65 mi)",
+    "Latitude": 37.856042,
+    "Line": "Sandringham",
+    "Longitude": 144.992023,
+    "Name": "Windsor"
+  },
+  {
+    "Code": "YMN",
+    "Date_opened": "21-Dec-76",
+    "Distance_from_Southern_Cross": "29.04 km (18.04 mi)",
+    "Latitude": -37.978,
+    "Line": "Pakenham and Cranbourne",
+    "Longitude": 145.1915,
+    "Name": "Yarraman"
+  },
+  {
+    "Code": "YVE",
+    "Date_opened": "20 November 1871",
+    "Distance_from_Southern_Cross": "7.54 km (4.69 mi)",
+    "Latitude": -37.8163,
+    "Line": "Werribee and Williamstown",
+    "Longitude": 144.8898,
+    "Name": "Yarraville"
+  }
+]
