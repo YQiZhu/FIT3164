@@ -254,21 +254,22 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
 
         googleMap.clear();
         // add police station marker (red)
+        // access the database
         DatabaseReference ref_suburb = database.getReference("police station data");
         if (ref_suburb != null){
             ref_suburb.addValueEventListener(new ValueEventListener() {
+                // add markers
                 @Override
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    if (snapshot.exists()){
+                    if (snapshot.exists()){ // cheack if database is not empty 
                         for (DataSnapshot ds : snapshot.getChildren()){
+                            //add the marker on the longtitue and lantitude
                             LatLng latlng = new LatLng(Float.parseFloat(ds.getValue(PoliceStation.class).getLatitude()), Float.parseFloat(ds.getValue(PoliceStation.class).getLongitude()));
                             googleMap.addMarker(new MarkerOptions().position(latlng).title(ds.getValue(PoliceStation.class).getName()+" police station")
                                     .snippet("Opening hour: "+ ds.getValue(PoliceStation.class).getOpening_Hours()+"\n" +"Phone: "+ ds.getValue(PoliceStation.class).getPhone()));
-
+                                    // use snippet to add tooltip of each markers
                         }
-
                     }
-
                 }
 
                 @Override
@@ -311,48 +312,48 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         });
 
         // add emergency data marker (green)
+        // access the database
         ref_suburb = database.getReference("emergency data");
         if (ref_suburb != null){
             ref_suburb.addValueEventListener(new ValueEventListener() {
+                // add markers
                 @Override
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    if (snapshot.exists()){
+                    if (snapshot.exists()){// cheack if database is not empty 
                         for (DataSnapshot ds : snapshot.getChildren()){
+                            //add the marker on the longtitue and lantitude
                             LatLng latlng = new LatLng(ds.getValue(Emergency.class).getLatitude(), ds.getValue(Emergency.class).getLongitude());
                             googleMap.addMarker(new MarkerOptions().position(latlng).title(ds.getValue(Emergency.class).getName()+" emergency station")
                                     .snippet("Phone: "+ ds.getValue(Emergency.class).getPhone())
                                     .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_YELLOW)));
-
+                            // use snippet to add tooltip of each markers
                         }
                     }
                 }
-
                 @Override
                 public void onCancelled(@NonNull DatabaseError error) {
-
                 }
             });
         }
-
 
         // add train station marker (blue)
         ref_suburb = database.getReference("train station data");
         if (ref_suburb != null){
             ref_suburb.addValueEventListener(new ValueEventListener() {
+                // add markers
                 @Override
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    if (snapshot.exists()){
+                    if (snapshot.exists()){// cheack if database is not empty 
                         for (DataSnapshot ds : snapshot.getChildren()){
+                            //add the marker on the longtitue and lantitude
                             LatLng latlng = new LatLng(ds.getValue(TrainStation.class).getLatitude(), ds.getValue(TrainStation.class).getLongitude());
                             googleMap.addMarker(new MarkerOptions().position(latlng).title(ds.getValue(TrainStation.class).getName()+" Train Station")
                                     .snippet("Line: "+ ds.getValue(TrainStation.class).getLine())
                                     .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));
-
-
+                            // use snippet to add tooltip of each markers
                         }
                     }
                 }
-
                 @Override
                 public void onCancelled(@NonNull DatabaseError error) {
 
